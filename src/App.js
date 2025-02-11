@@ -86,7 +86,7 @@ function MainApp() {
             position: 'fixed',
             top: '50%',
             left: '50%',
-            width: '70%',
+            width: '74%',
             height: '100%',
             objectFit: 'fill',
             objectPosition: imagePosition,
